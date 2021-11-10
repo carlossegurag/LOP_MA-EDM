@@ -10,7 +10,7 @@ Description: some internal operations required by MA:
 #include "Individual.h"
 
 Individual::Individual(){
-	S.reserve(problem->problemDimension);
+	S.resize(problem->problemDimension);
 }
 
 TFitness Individual::getCost(){
