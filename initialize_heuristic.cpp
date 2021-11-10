@@ -10,6 +10,7 @@ each permutation is equiprobable.
 #include <algorithm>
 
 void Individual::initialize_heuristic() {
+	S.clear();
 	for (int i = 0; i < problem->problemDimension; i++) {
 		S.push_back(i);
 	}
