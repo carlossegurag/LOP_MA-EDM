@@ -4,7 +4,7 @@ This repository contains the source code of Memetic Algorithm with Explicit Dive
 
 The information about the BKSs are in the "Supplementary Material - BKS.pdf" file and the new BKSs are in BKS.zip.
 
-The description is in arxiv in the document "" by Lázaro Lugo, Carlos Segura and Gara Miranda and it has been submitted to the Applied Soft Computing Journal.
+The description is in arxiv in the document "A Diversity-Aware Memetic Algorithm for the Linear OrderingProblem: Improving Best-Known Solutions for Standard Benchmarks" by Lázaro Lugo, Carlos Segura and Gara Miranda and it has been submitted to the Applied Soft Computing Journal.
 
 
 # Usage
