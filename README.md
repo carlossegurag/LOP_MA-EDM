@@ -2,9 +2,9 @@
 
 This repository contains the source code of Memetic Algorithm with Explicit Diversity Management (MA-EDM). MA-EDM is a population-based optimizer that has been used to generate several new best-known solutions (BKSs) of the Linear Ordering Problem (LOP).
 
-The information about the BKSs are in the "Supplementary Material - BKS.pdf" file. 
+The information about the BKSs are in the "Supplementary Material - BKS.pdf" file and the new BKSs are in BKS.zip.
 
-The description is in arxiv in the document "A Diversity-aware Memetic Algorithm for the Linear Ordering Problem" by Lázaro Lugo, Carlos Segura and Gara Miranda and it has been submitted to the Applied Soft Computing Journal.
+The description is in arxiv in the document "" by Lázaro Lugo, Carlos Segura and Gara Miranda and it has been submitted to the Applied Soft Computing Journal.
 
 
 # Usage
